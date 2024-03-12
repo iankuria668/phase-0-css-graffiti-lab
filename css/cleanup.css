@@ -1,1 +1,18 @@
 /* write your override styles here */
+div#wall{
+    position: relative;
+    background-size: contain;
+    background-color: azure;
+}
+.tag-1{
+    color: aqua;
+    column-gap: 30cm;
+    column-width: 2cm;
+    background-color: blueviolet;
+}
+#wall #tag-4 {
+    width: 30px;
+    height: max-content;
+    image-orientation: flip;
+
+}
